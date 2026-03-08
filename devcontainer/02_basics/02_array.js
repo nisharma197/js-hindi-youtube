@@ -24,6 +24,7 @@ const score2 = [6, 7, 8, 9, 10]
 const score3 = [11, 12, 13, 14, 15]
 
 console.log(Array.of(score1, score2, score3))
+console.log(JsUser.greeting());
 
 
 
